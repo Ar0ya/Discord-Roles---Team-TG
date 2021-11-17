@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/93303277/139367023-2dc86d16-4e58-477f-b640-128ea5a27eb2.png" width="100" height="100">
+<img src=https://media.discordapp.net/attachments/884703572682502164/910356595228172338/TG.jpg>
 
 # Discord-Roles---Team-TG
 
@@ -6,7 +6,7 @@
 
 |Name | Description|
 | - | - |
-|Owner | Ujjwal Chaurasia. Discord: `TECH GAMING#8407` UID: `752762830943551552`|
+|Owner | TECH GAMING. Discord: `TECH GAMING#8407` UID: `752762830943551552`|
 |Management | Looks after all the core activities related to TG and his team.|
 |Staff Team |	Manages the server with rules and regulations. They have the right to take the necessary action against the offender.|
 |Minecraft Team |	Manages our Minecraft gaming server i.e. TGnet.|
