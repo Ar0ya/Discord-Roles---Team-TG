@@ -6,7 +6,7 @@
 
 |Name | Description|
 | - | - |
-|Owner | TECH GAMING. Discord: `TECH GAMING#8407` UID: `752762830943551552`|
+|Owner | TruzoYT. Discord: `TruzoYT#0001` UID: `928890988733284362`|
 |Management | Looks after all the core activities related to TG and his team.|
 |Staff Team |	Manages the server with rules and regulations. They have the right to take the necessary action against the offender.|
 |Minecraft Team |	Manages our Minecraft gaming server i.e. TGnet.|
@@ -24,7 +24,7 @@
 |Contributor |	Ones who sponsor the server financially under certain circumstances(terms & conditions applied).|
 |Developer |	Creator of bots that are being used in this server.|
 |Designer |	Ones who regularly do gfx or VFX work for Team TG.|
-|Artist |	Talented musicians present in the [server](https://discord.gg/w2Yb4wmfeN).|
+|Artist |	Talented musicians present in the [server](https://discord.gg/6kS83jUsQW).|
 |PTT Bypass |	Given based on activity and assigned/removed automatically via automation.|
 |Verified Girl |	Given only to girls after voice verification.|
 |Membership |	These roles are given according to your time from when you have joined our Discord server. Currently available time roles are 3 months to 5 years.|
