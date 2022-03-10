@@ -6,7 +6,7 @@
 
 |Name | Description|
 | - | - |
-|Owner | TruzoYT. Discord: `TruzoYT#0001` UID: `928890988733284362`|
+|Owner | TruzoYT. Discord: `TruzoYT#9601` UID: `928890988733284362`|
 |Management | Looks after all the core activities related to TG and his team.|
 |Staff Team |	Manages the server with rules and regulations. They have the right to take the necessary action against the offender.|
 |Minecraft Team |	Manages our Minecraft gaming server i.e. TGnet.|
